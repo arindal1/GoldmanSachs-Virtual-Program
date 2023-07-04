@@ -1,4 +1,4 @@
-# GoldmanSachs-Virtual-Programme
+# GoldmanSachs-Virtual-Program
 This repo contains my report for GoldmanSachs Password Cracking task I started 1 week ago.
 
 ## The Task:
