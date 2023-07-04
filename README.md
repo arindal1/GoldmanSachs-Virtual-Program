@@ -1,23 +1,23 @@
 # GoldmanSachs-Virtual-Programme
 This repo contains my report for GoldmanSachs Password Cracking task I started 3 weeks ago.
 
-##The Task:
+## The Task:
 > As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. To be successful at your job you often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most of perimeter controls in place.
 
-###Your job is to crack as many passwords as possible with available tools `(e.g. use Hashcat)`. Here are your Task instructions:
+### Your job is to crack as many passwords as possible with available tools `(e.g. use Hashcat)`. Here are your Task instructions:
 * Review the links provided in the additional resources below to gain a background understanding of password cracking
 * Try to crack the passwords provided in the 'password dump' file below using available tools
 * Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
 * Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts.
 
-###You must determine the following:
+### You must determine the following:
 * What type of hashing algorithm was used to protect passwords?
 * What level of protection does the mechanism offer for passwords?
 * What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
 * What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 * What would you change in the password policy to make breaking the passwords harder?
 
-##Resources:
+## Resources:
 <a href="https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt" target="_blank">Password Dump.txt</a>
 ```
 experthead:e10adc3949ba59abbe56e057f20f883e
@@ -41,7 +41,7 @@ nabox:defebde7b6ab6f24d5824682a16c3ae4
 bandalls:bdda5f03128bcbdfa78d8934529048cf
 ```
 
-#The Report:
+# The Report:
 
 Dear Sir/Maam,
 
